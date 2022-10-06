@@ -15,7 +15,7 @@ python=3.7.1 tensorflow=1.15.0
 ```
 
 # Pretrained Model
-Download pretrained model from the [link]()
+Please download pretrained model from the [link]()
 
 # Our Related Work
 * Artificial intelligence–based full aortic CT angiography imaging with ultra-low-dose contrast medium: a preliminary study, European Radiology 2022. [Paper](https://link.springer.com/article/10.1007/s00330-022-08975-1)
