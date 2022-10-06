@@ -1,4 +1,4 @@
-# Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT (J-BHI 2022)
+# Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT (JBHI 2022)
 Weiwei Zhang, Zhen Zhou, Zhifan Gao, Guang Yang, Lei Xu, Weiwen Wu, and Heye Zhang
 
 # Abstract
