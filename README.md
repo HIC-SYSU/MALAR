@@ -8,7 +8,9 @@ Iodinated contrast medium (ICM) dose reduction is beneﬁcial for decreasing pot
 
 # Network Architecture
 ![Flow_chart](https://user-images.githubusercontent.com/64700979/194312703-2a28018f-a050-4413-8917-98e181258954.png)
-<img src="https://user-images.githubusercontent.com/64700979/194312703-2a28018f-a050-4413-8917-98e181258954.png" height="50%" width="50%" />
+<div  align="center">    
+<img src="https://user-images.githubusercontent.com/64700979/194312703-2a28018f-a050-4413-8917-98e181258954.png" height="80%" width="80%" />
+</div>
 
 # Requirements
 ```
