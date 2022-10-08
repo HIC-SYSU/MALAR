@@ -18,4 +18,4 @@ python=3.7.1 tensorflow=1.15.0
 Please download pretrained model from the [link](https://drive.google.com/drive/folders/1-ze0CiKuJ2MZCTd-cVTV9-SzQPc0vC_x?usp=sharing)
 
 # Our Related Work
-* Artificial intelligence–based full aortic CT angiography imaging with ultra-low-dose contrast medium: a preliminary study, European Radiology 2022. [Paper](https://link.springer.com/article/10.1007/s00330-022-08975-1)
+* Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT. [Paper]()
