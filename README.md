@@ -19,5 +19,17 @@ python=3.7.1 tensorflow=1.15.0
 # Pretrained Model
 Please download pretrained model from the [link](https://drive.google.com/drive/folders/1-ze0CiKuJ2MZCTd-cVTV9-SzQPc0vC_x?usp=sharing)
 
+# Citations
+Please consider citing the paper in your publications if it helps your research.
+```
+@article{zhang2022multiple,
+  title={Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT},
+  author={Zhang, Weiwei and Zhou, Zhen and Gao, Zhifan and Yang, Guang and Xu, Lei and Wu, Weiwen and Zhang, Heye},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
 # Our Related Work
-* Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT. [Paper]()
+* Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT. [Paper](https://ieeexplore.ieee.org/abstract/document/9916111)
